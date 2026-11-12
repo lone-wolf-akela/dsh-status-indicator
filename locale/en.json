@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Agent status indicator",
+    "description": "Shows a colored marker below the composer for what the harness is waiting for: your input, the model's first token, streaming output, a running tool, or your answer."
+  }
+}
